@@ -28,10 +28,9 @@ yarn global add expo-cli
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/vprribeiro/cronometro-mobile
     cd biscoito-da-sorte-app
     ```
-    (Lembre-se de substituir `<URL_DO_SEU_REPOSITORIO>` pela URL real do seu repositório no GitHub).
 
 2.  **Instale as dependências:**
     ```bash
